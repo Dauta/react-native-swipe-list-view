@@ -9,9 +9,7 @@ import {
 	SectionList,
 	ListView,
 	Platform,
-	Text,
 	ViewPropTypes,
-	View,
 } from 'react-native';
 
 import SwipeRow from './SwipeRow';
